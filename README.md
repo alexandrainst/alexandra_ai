@@ -90,8 +90,7 @@ models and/or datasets:
 ├── pyproject.toml
 ├── src
 │   ├── aiai
-│   │   ├── __init__.py
-│   │   └── demo.py
+│   │   └── __init__.py
 │   └── scripts
 │       ├── fix_dot_env_file.py
 │       └── versioning.py
