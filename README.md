@@ -2,9 +2,11 @@
 <img src="https://raw.githubusercontent.com/alexandrainst/AIAI/main/gfx/aiai-logo.png" width="auto" height="224">
 </div>
 
-### A Python package for Danish data science.
+### A Python package for Danish data science
+#### _(pronounced as in "Aye aye captain")_
 
 ______________________________________________________________________
+[![PyPI Status](https://badge.fury.io/py/aiai.svg)](https://pypi.org/project/aiai/)
 [![Documentation](https://img.shields.io/badge/docs-passing-green)](https://alexandrainst.github.io/aiai/aiai.html)
 [![License](https://img.shields.io/github/license/alexandrainst/aiai)](https://github.com/alexandrainst/aiai/blob/main/LICENSE)
 [![LastCommit](https://img.shields.io/github/last-commit/alexandrainst/aiai)](https://github.com/alexandrainst/aiai/commits/main)
@@ -109,5 +111,3 @@ The following are the core maintainers of the `aiai` package:
 └── tests
     └── __init__.py
 ```
-
-
