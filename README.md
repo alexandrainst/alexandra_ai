@@ -10,7 +10,7 @@ ______________________________________________________________________
 [![Documentation](https://img.shields.io/badge/docs-passing-green)](https://alexandrainst.github.io/aiai/aiai.html)
 [![License](https://img.shields.io/github/license/alexandrainst/aiai)](https://github.com/alexandrainst/aiai/blob/main/LICENSE)
 [![LastCommit](https://img.shields.io/github/last-commit/alexandrainst/aiai)](https://github.com/alexandrainst/aiai/commits/main)
-[![Code Coverage](https://img.shields.io/badge/Coverage-0%25-red.svg)](https://github.com/alexandrainst/aiai/tree/main/tests)
+[![Code Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](https://github.com/alexandrainst/aiai/tree/main/tests)
 
 
 ## Installation
