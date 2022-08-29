@@ -8,19 +8,6 @@ project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 ### Added
-- [New features that were added]
-
-### Changed
-- [Existing features that were fixed]
-
-### Deprecated
-- [Existing features that were deprecated and will be removed soon]
-
-### Removed
-- [Existing features that were removed]
-
-### Fixed
-- [Bugs that were fixed]
-
-### Security
-- [Security vulnerabilities that were patched]
+- First release, which includes evaluation of sentiment models from the Hugging Face
+  Hub. This can be run with the CLI using the `evaluate` command, or via a script using
+  the `Evaluator` class.
