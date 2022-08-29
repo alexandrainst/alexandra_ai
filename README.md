@@ -68,7 +68,7 @@ if you just want to correct a typo in this readme file, then we urge you to join
 community! Have a look at the [CONTRIBUTING.md](./CONTRIBUTING.md) file, where you can
 check out all the ways you can contribute to this package. :sparkles:
 
-- Your name here?
+- _Your name here?_ :tada:
 
 
 ## Maintainers
