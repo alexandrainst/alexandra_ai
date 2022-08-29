@@ -61,7 +61,7 @@ models and/or datasets:
 ```
 
 
-## Contributors
+## Contributors
 
 If you feel like this package is missing a crucial feature, if you encounter a bug or
 if you just want to correct a typo in this readme file, then we urge you to join the
@@ -71,12 +71,12 @@ check out all the ways you can contribute to this package. :sparkles:
 - Your name here?
 
 
-## Maintainers
+## Maintainers
 
 The following are the core maintainers of the `aiai` package:
 
-- @saattrupdan (Dan Saattrup Nielsen; saattrupdan@alexandra.dk)
-- @AJDERS (Anders Jess Pedersen; anders.j.pedersen@alexandra.dk)
+- [@saattrupdan](https://github.com/saattrupdan) (Dan Saattrup Nielsen; saattrupdan@alexandra.dk)
+- [@AJDERS](https://github.com/AJDERS) (Anders Jess Pedersen; anders.j.pedersen@alexandra.dk)
 
 
 ## Project structure
