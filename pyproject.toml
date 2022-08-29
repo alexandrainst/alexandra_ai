@@ -1,0 +1,64 @@
+[tool.poetry]
+name = "aiai"
+version = "0.0.1"
+description = "Alexandra Institute Artificial Intelligence, a Python package for Danish data science."
+authors = [
+    "Dan Saattrup Nielsen <dan.nielsen@alexandra.dk>",
+    "Anders Jess Pedersen <anders.j.pedersen@alexandra.dk>",
+]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+aiai_eval = "^0.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+pytest-xdist = "^2.5.0"
+pytest-cov = "^3.0.0"
+pre-commit = "^2.17.0"
+pdoc = "^7.1.1"
+black = "^22.6.0"
+isort = "^5.10.1"
+readme-coverage-badger = ">=0.1.2,<1.0.0"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = [
+    '--verbose',
+    '--durations=10',
+    '--color=yes',
+    '-s',
+    '-vv',
+    '--doctest-modules',
+    '--cov=src/aiai',
+    '-n 2',
+]
+xfail_strict = true
+filterwarnings = ["ignore"]
+log_cli_level = "info"
+testpaths = ["tests", "src/aiai"]
+
+[tool.black]
+line-length = 88
+include = '\.pyi?$'
+exclude = '''
+/(
+	\.git
+| \.hg
+| \.mypy_cache
+| \.tox
+| \.venv
+| _build
+| buck-out
+| build
+)/
+'''
+
+[tool.isort]
+profile = "black"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
