@@ -11,12 +11,6 @@ ______________________________________________________________________
 [![Code Coverage](https://img.shields.io/badge/Coverage-0%25-red.svg)](https://github.com/alexandrainst/aiai/tree/main/tests)
 
 
-Developers:
-
-- Dan Saattrup Nielsen (dan.nielsen@alexandra.dk)
-- Anders Jess Pedersen (anders.j.pedersen@alexandra.dk)
-
-
 ## Installation
 To install the package simply write the following command in your favorite terminal:
 ```
@@ -67,6 +61,24 @@ models and/or datasets:
 ```
 
 
+## Contributors
+
+If you feel like this package is missing a crucial feature, if you encounter a bug or
+if you just want to correct a typo in this readme file, then we urge you to join the
+community! Have a look at the [CONTRIBUTING.md](./CONTRIBUTING.md) file, where you can
+check out all the ways you can contribute to this package. :sparkles:
+
+- Your name here?
+
+
+## Maintainers
+
+The following are the core maintainers of the `aiai` package:
+
+- @saattrupdan (Dan Saattrup Nielsen; saattrupdan@alexandra.dk)
+- @AJDERS (Anders Jess Pedersen; anders.j.pedersen@alexandra.dk)
+
+
 ## Project structure
 ```
 .
@@ -97,3 +109,5 @@ models and/or datasets:
 └── tests
     └── __init__.py
 ```
+
+
