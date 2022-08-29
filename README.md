@@ -3,7 +3,7 @@
 </div>
 
 ### A Python package for Danish data science
-#### _(pronounced as in "Aye aye captain")_
+##### _(pronounced as in "Aye aye captain")_
 
 ______________________________________________________________________
 [![PyPI Status](https://badge.fury.io/py/aiai.svg)](https://pypi.org/project/aiai/)
