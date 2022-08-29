@@ -82,29 +82,19 @@ models and/or datasets:
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
-├── config
-│   ├── __init__.py
-│   ├── config.yaml
-│   ├── model
-│   │   └── model1.yaml
-│   └── process
-│       └── process1.yaml
-├── data
-│   ├── final
-│   ├── processed
-│   └── raw
+├── gfx
+│   └── aiai-logo.png
 ├── makefile
-├── models
 ├── notebooks
 ├── poetry.toml
 ├── pyproject.toml
 ├── src
-│   ├── scripts
-│   │   ├── fix_dot_env_file.py
-│   │   └── versioning.py
-│   └── aiai
-│       ├── __init__.py
-│       └── demo.py
+│   ├── aiai
+│   │   ├── __init__.py
+│   │   └── demo.py
+│   └── scripts
+│       ├── fix_dot_env_file.py
+│       └── versioning.py
 └── tests
     └── __init__.py
 ```
