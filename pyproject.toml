@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aiai"
-version = "0.0.1"
+version = "0.0.0"
 description = "Alexandra Institute Artificial Intelligence, a Python package for Danish data science."
 authors = [
     "Dan Saattrup Nielsen <dan.nielsen@alexandra.dk>",
