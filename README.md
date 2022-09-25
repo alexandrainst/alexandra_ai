@@ -81,6 +81,17 @@ The following are the core maintainers of the `aiai` package:
 - [@AJDERS](https://github.com/AJDERS) (Anders Jess Pedersen; anders.j.pedersen@alexandra.dk)
 
 
+## The AIAI ecosystem
+
+This package is a wrapper around several AIAI packages, each of which is standalone:
+
+- [AIAI-eval](https://github.com/alexandrainst/AIAI-eval): Evaluation of finetuned models.
+- [AIAI-train](https://github.com/alexandrainst/AIAI-train): Finetuning machine learning models.
+- [AIAI-deploy](https://github.com/alexandrainst/AIAI-deploy): Deployment and monitoring of machine learning models.
+- [AIAI-data](https://github.com/alexandrainst/AIAI-data): Accessing external data sources.
+- [AIAI-anon](https://github.com/alexandrainst/AIAI-anon): Anonymization and pseudonymization of texts.
+
+
 ## Project structure
 ```
 .
