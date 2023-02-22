@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "aiai"
+name = "alexandra-ai"
 version = "0.0.1"
 description = "Alexandra Institute Artificial Intelligence, a Python package for Danish data science."
 authors = [
@@ -11,7 +11,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
-aiai_eval = "^0.0.1"
+alexandra-ai-eval = "^0.1.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
@@ -32,13 +32,13 @@ addopts = [
     '-s',
     '-vv',
     '--doctest-modules',
-    '--cov=src/aiai',
+    '--cov=src/alexandra_ai',
     '-n 2',
 ]
 xfail_strict = true
 filterwarnings = ["ignore"]
 log_cli_level = "info"
-testpaths = ["tests", "src/aiai"]
+testpaths = ["tests", "src/alexandra_ai"]
 
 [tool.black]
 line-length = 88

@@ -2,6 +2,6 @@
 
 
 def test_evaluator_import():
-    from aiai_eval import Evaluator
+    from alexandra_ai_eval import Evaluator
 
     assert hasattr(Evaluator, "evaluate")
