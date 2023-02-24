@@ -90,8 +90,8 @@ target/
 .pytest_cache/
 
 # Documentation
-docs/alexandra_ai_eval/
-docs/alexandra_ai_eval.html
+docs/alexandra_ai/
+docs/alexandra_ai.html
 docs/index.html
 docs/search.json
 
