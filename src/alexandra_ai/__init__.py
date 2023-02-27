@@ -6,11 +6,11 @@ import logging
 import os
 
 import pkg_resources
-from aiai_eval.evaluator import Evaluator  # noqa
+from alexandra_ai_eval.evaluator import Evaluator  # noqa
 from termcolor import colored
 
 # Fetches the version of the package as defined in pyproject.toml
-__version__ = pkg_resources.get_distribution("aiai").version
+__version__ = pkg_resources.get_distribution("alexandra_ai").version
 
 
 # Set up logging
