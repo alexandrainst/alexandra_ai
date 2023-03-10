@@ -1,5 +1,5 @@
 <div align='center'>
- <img src="https://raw.githubusercontent.com/alexandrainst/AlexandraAI/docs/add-logo/gfx/alexandra-ai-logo-dark.png">
+ <img src="https://raw.githubusercontent.com/alexandrainst/AlexandraAI/docs/add-logo/gfx/alexandra-ai-logo-dark.svg">
 </div>
 
 ### A Python package for Danish data science
