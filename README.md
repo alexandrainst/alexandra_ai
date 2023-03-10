@@ -1,6 +1,8 @@
-# AlexandraAI
+<div align='center'>
+ <img src="https://raw.githubusercontent.com/alexandrainst/AlexandraAI/docs/add-logo/gfx/alexandra-ai-logo-dark.svg">
+</div>
 
-### A Python package for Danish data science
+### A Toolkit for Machine Learning Practitioners
 
 ______________________________________________________________________
 [![PyPI Status](https://badge.fury.io/py/alexandra_ai.svg)](https://pypi.org/project/alexandra_ai/)

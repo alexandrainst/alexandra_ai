@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "alexandra-ai"
 version = "0.1.0"
-description = "Alexandra Institute Artificial Intelligence, a Python package for Danish data science."
+description = "A toolkit for machine learning practioners."
 authors = [
     "Dan Saattrup Nielsen <dan.nielsen@alexandra.dk>",
     "Anders Jess Pedersen <anders.j.pedersen@alexandra.dk>",
