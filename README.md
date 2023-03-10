@@ -24,7 +24,7 @@ If you're on MacOS and get an error saying something along the lines of "fatal e
 
 ```
 export CPPFLAGS="-I$(brew --prefix)/include"
-pip install alexandra-ai-eval
+pip install alexandra-ai
 ```
 
 ## Quickstart
