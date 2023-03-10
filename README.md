@@ -92,7 +92,7 @@ check out all the ways you can contribute to this package. :sparkles:
 
 The following are the core maintainers of the `alexandra_ai` package:
 
-- [@saattrupdan](https://github.com/saattrupdan) (Dan Saattrup Nielsen; saattrupdan@alexandra.dk)
+- [@saattrupdan](https://github.com/saattrupdan) (Dan Saattrup Nielsen; dan.nielsen@alexandra.dk)
 - [@AJDERS](https://github.com/AJDERS) (Anders Jess Pedersen; anders.j.pedersen@alexandra.dk)
 
 ## The AlexandraAI ecosystem
