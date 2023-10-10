@@ -6,10 +6,10 @@
 
 ______________________________________________________________________
 [![PyPI Status](https://badge.fury.io/py/alexandra_ai.svg)](https://pypi.org/project/alexandra_ai/)
-[![Documentation](https://img.shields.io/badge/docs-passing-green)](https://alexandrainst.github.io/AlexandraAI/alexandra_ai.html)
-[![License](https://img.shields.io/github/license/alexandrainst/AlexandraAI)](https://github.com/alexandrainst/AlexandraAI/blob/main/LICENSE)
-[![LastCommit](https://img.shields.io/github/last-commit/alexandrainst/AlexandraAI)](https://github.com/alexandrainst/AlexandraAI/commits/main)
-[![Code Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](https://github.com/alexandrainst/AlexandraAI/tree/main/tests)
+[![Documentation](https://img.shields.io/badge/docs-passing-green)](https://alexandrainst.github.io/alexandra_ai/alexandra_ai.html)
+[![License](https://img.shields.io/github/license/alexandrainst/alexandra_ai)](https://github.com/alexandrainst/alexandra_ai/blob/main/LICENSE)
+[![LastCommit](https://img.shields.io/github/last-commit/alexandrainst/alexandra_ai)](https://github.com/alexandrainst/alexandra_ai/commits/main)
+[![Code Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](https://github.com/alexandrainst/alexandra_ai/tree/main/tests)
 
 ## Installation
 
